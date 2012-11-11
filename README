@@ -1,0 +1,4 @@
+mkRemoveDups
+-------------------
+
+mkRemoveDups.sh when in the path will output a script with the potential to remove all duplicate files
